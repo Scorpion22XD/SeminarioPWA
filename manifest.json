@@ -1,0 +1,22 @@
+{
+    "name":"Coffee",
+    "short-name":"Café",
+    "description":"Bienvenidos a mi sitio de Café",
+    "background_color": "#2B2B2B",
+    "theme-color":"#F0DB4F",
+    "orientation":"portrait",
+    "display":"standalone",
+    "start_url":"./?utm_source=web_app_manifest",
+    "scope":"./",
+    "lang":"es-SV",
+    "icons":[
+      {
+        "src":"assets/images/SeminarioPWA512_183.png",
+        "sizes":"512x183",
+        "type":"image/png"
+      }
+
+    ]
+
+}
+    
